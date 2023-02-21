@@ -5,7 +5,7 @@ struct Rect{
 	double x,y,w,h;
 };
 
-double overlap(){
+double overlap(Rect a, Rect b){
 
 
 
